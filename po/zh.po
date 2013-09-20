@@ -56,8 +56,8 @@ msgid ""
 "Foundation, either version 3 of the License, or (at your option) any later "
 "version."
 msgstr ""
-"Gcolor3 为自由软件：您可依据自由软件基金会所发表的GNU通用公共授权条款，“
-”对本程序再次发布和/或修改；无论您依据的是本授权的第三版，或（您可选的）任一日后发行的版本。"
+"Gcolor3 为自由软件：您可依据自由软件基金会所发表的GNU通用公共授权条款，"
+"对本程序再次发布和/或修改；无论您依据的是本授权的第三版，或（您可选的）任一日后发行的版本。"
 
 #: ../src/ui.c:53
 msgid ""
