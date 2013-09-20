@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the Gcolor3 package.
-# Zhang Longqi <longqi90@gmail.com>, 2013.
+# Zhang Longqi <zhang_longqi@126.com>, 2013.
 #
 #, fuzzy
 msgid ""
